@@ -8,7 +8,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7T7MMEhY8zYd6ekbDRdIhw?style=social)](http://www.youtube.com/channel/UC7T7MMEhY8zYd6ekbDRdIhw?sub_confirmation=1)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7T7MMEhY8zYd6ekbDRdIhw?style=social)](http://www.youtube.com/channel/UC7T7MMEhY8zYd6ekbDRdIhw?sub_confirmation=1)
 
-[![YouTube Video](https://img.youtube.com/vi/LuxO2Vnyvxw/0.jpg)](https://www.youtube.com/watch?v=LuxO2Vnyvxw)
+[![YouTube Video](https://img.youtube.com/vi/zbeqhlBk7ao/0.jpg)](https://www.youtube.com/watch?v=zbeqhlBk7ao)
 
 ## Prerequisites
 - JDK 17+
